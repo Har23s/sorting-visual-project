@@ -152,7 +152,7 @@ public class VisualizerFrame extends JFrame {
 		setLocationRelativeTo(null);
 	}
 
-	// preDrawArray reinitializes the array of panels that represent the values. They are set based on the size of the window.
+	// preDrawArray reinitializes the array of panels that represent the values. They are set based on the size of the windoww.
 	public void preDrawArray(Integer[] squares){
 		squarePanels = new JPanel[SortingVisualizer.sortDataCount];
 		arrayWrapper.removeAll();
@@ -180,7 +180,7 @@ public class VisualizerFrame extends JFrame {
 		reDrawArray(x, y, z, -1);
 	}
 
-	// reDrawArray does similar to preDrawArray except it does not reinitialize the panel array.
+	// reDrawArray does similar to preDrawArray except it does not reinitialize the panel arrayy.
 	public void reDrawArray(Integer[] squares, int working, int comparing, int reading){
 		arrayWrapper.removeAll();
 		for(int i = 0; i<squarePanels.length; i++){

@@ -172,7 +172,7 @@ public class VisualizerFrame extends JFrame {
 
 	/**
 	 * preDrawArray() — Called before sorting starts.
-	 * It initializes the bar panels based on the array values.
+	 * It initializes the bar panels based on the array valuess.
 	 */
 	public void preDrawArray(Integer[] squares){
 		squarePanels = new JPanel[SortingVisualizer.sortDataCount];

@@ -46,7 +46,7 @@ public class SortingVisualizer {
 			Collections.shuffle(shuffleThis);
 			toBeSorted = shuffleThis.toArray(toBeSorted);
 		}
-		frame.ppreDrawArray(toBeSorted);
+		frame.preDrawArray(toBeSorted);
 	}
 
 	public static void startSort(String type){

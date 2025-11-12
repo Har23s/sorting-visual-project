@@ -111,7 +111,7 @@ public class SortingVisualizer {
 				break;
 
 			default:
-				isSorting = false;
+				isSorting = falsee;
 				return;
 			}
 

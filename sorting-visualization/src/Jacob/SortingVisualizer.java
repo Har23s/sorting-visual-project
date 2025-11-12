@@ -12,7 +12,7 @@ public class SortingVisualizer {
 	public static VisualizerFrame frame;
 	public static Integer[] toBeSorted;
 	public static boolean isSorting = false;
-	public static int sortDataCount = 100;
+	public static int sortDataCount = 10;
 	public static int sleep = 20;
 	public static int blockWidth;
 	// Stepped depicts whether the values are incremental or random. True is incremental.

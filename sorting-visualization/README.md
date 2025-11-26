@@ -17,7 +17,7 @@
   - Radix sort (MSD and LSD)
     
   Later I plan to implement more sorts like Quick sort and Binary sort.
-  
+
   You are able to change the speed at which the sorts operate as well as the size of the data set.
   
 

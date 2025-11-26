@@ -28,7 +28,7 @@ public class VisualizerFrame extends JFrame {
 	private final int MAX_SPEED = 1000;
 	private final int MIN_SPEED = 10;
 	private final int MAX_SIZE = 500;
-	private final int MIN_SIZE = 1;
+	private final int MIN_SIZE = 10;
 	private final int DEFAULT_SPEED = 20;
 	private final int DEFAULT_SIZE = 100;
 
